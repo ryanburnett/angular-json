@@ -15,6 +15,7 @@ Installation
 ------
 ```
 $ git clone git@github.com:ryanburnett/angular-json.git
+$ cd angular-json
 $ bower install
 ```
 * Open index.html in a browser
