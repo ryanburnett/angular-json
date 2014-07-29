@@ -1,0 +1,178 @@
+[
+  {
+    "id": 0,
+    "guid": "0621ba5a-d14d-4c7d-a9d3-263be5328d5e",
+    "isActive": true,
+    "balance": "$2,946.07",
+    "picture": "http://placehold.it/32x32",
+    "age": 31,
+    "eyeColor": "brown",
+    "name": "Kline Woods",
+    "gender": "male",
+    "company": "SINGAVERA",
+    "email": "klinewoods@singavera.com",
+    "phone": "+1 (804) 416-3370",
+    "address": "777 Lloyd Court, Lawrence, Rhode Island, 4617",
+    "about": "Ut commodo deserunt fugiat ipsum occaecat amet mollit dolore minim. Nisi et sint nostrud aliquip mollit voluptate sit eiusmod commodo. Adipisicing proident tempor velit id nulla cillum mollit cupidatat nostrud.\r\n",
+    "registered": "2014-03-17T17:52:49 +04:00",
+    "latitude": 7.724499,
+    "longitude": 66.648133,
+    "tags": [
+      "enim",
+      "sit",
+      "proident",
+      "aute",
+      "reprehenderit",
+      "qui",
+      "consectetur"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Boyle Mayer"
+      },
+      {
+        "id": 1,
+        "name": "Glass Booker"
+      },
+      {
+        "id": 2,
+        "name": "Eleanor Clay"
+      }
+    ],
+    "greeting": "Hello, Kline Woods! You have 2 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "id": 1,
+    "guid": "2e288b8a-d418-4dff-a807-f01185e95398",
+    "isActive": false,
+    "balance": "$3,666.34",
+    "picture": "http://placehold.it/32x32",
+    "age": 35,
+    "eyeColor": "blue",
+    "name": "Elise Mcdaniel",
+    "gender": "female",
+    "company": "PROTODYNE",
+    "email": "elisemcdaniel@protodyne.com",
+    "phone": "+1 (803) 545-2870",
+    "address": "272 Truxton Street, Fedora, Connecticut, 1387",
+    "about": "Aliquip incididunt aute elit sunt. Quis proident aliquip ut reprehenderit voluptate reprehenderit. Laboris dolore occaecat quis culpa ex esse eu do incididunt. Eu proident ea laborum do enim id aliqua aliqua occaecat aute non. Minim ut enim quis id aliquip pariatur adipisicing ut.\r\n",
+    "registered": "2014-01-14T13:21:25 +05:00",
+    "latitude": 36.851266,
+    "longitude": 1.207387,
+    "tags": [
+      "officia",
+      "nostrud",
+      "anim",
+      "est",
+      "enim",
+      "deserunt",
+      "fugiat"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Shari Navarro"
+      },
+      {
+        "id": 1,
+        "name": "Crawford Benton"
+      },
+      {
+        "id": 2,
+        "name": "Wells Goodman"
+      }
+    ],
+    "greeting": "Hello, Elise Mcdaniel! You have 9 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "id": 2,
+    "guid": "ca157ba1-69de-4ca6-9d7c-4a3c130c0462",
+    "isActive": true,
+    "balance": "$2,956.71",
+    "picture": "http://placehold.it/32x32",
+    "age": 26,
+    "eyeColor": "blue",
+    "name": "Jenny Macias",
+    "gender": "female",
+    "company": "MENBRAIN",
+    "email": "jennymacias@menbrain.com",
+    "phone": "+1 (907) 508-2031",
+    "address": "906 Sedgwick Street, Dola, New Hampshire, 6970",
+    "about": "Nulla veniam veniam in voluptate pariatur nulla proident incididunt ullamco officia irure id quis Lorem. Labore dolore commodo ea et exercitation esse in veniam labore do Lorem adipisicing exercitation. Laborum voluptate ad eiusmod veniam sit veniam do anim. Cillum non duis minim nisi proident fugiat aute irure. Non aliquip deserunt non reprehenderit culpa ex. Veniam enim consectetur ipsum minim excepteur aliqua ex consectetur tempor et eu. Non do cupidatat id quis exercitation eu tempor commodo nisi sit exercitation.\r\n",
+    "registered": "2014-04-20T15:48:48 +04:00",
+    "latitude": -48.898322,
+    "longitude": 4.294328,
+    "tags": [
+      "elit",
+      "id",
+      "quis",
+      "adipisicing",
+      "aliqua",
+      "velit",
+      "nostrud"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Koch Whitley"
+      },
+      {
+        "id": 1,
+        "name": "Mitzi Parks"
+      },
+      {
+        "id": 2,
+        "name": "Chambers Roberts"
+      }
+    ],
+    "greeting": "Hello, Jenny Macias! You have 6 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "id": 3,
+    "guid": "00a4ca43-7cc6-43bf-bd95-e64d6c620513",
+    "isActive": true,
+    "balance": "$2,980.28",
+    "picture": "http://placehold.it/32x32",
+    "age": 36,
+    "eyeColor": "blue",
+    "name": "Rhonda Robertson",
+    "gender": "female",
+    "company": "PERKLE",
+    "email": "rhondarobertson@perkle.com",
+    "phone": "+1 (887) 412-3394",
+    "address": "704 Cumberland Walk, Cumminsville, North Carolina, 4202",
+    "about": "Ullamco officia dolor officia est non consequat laboris velit culpa consequat. Excepteur cillum officia enim ad qui cillum eu culpa elit mollit. Nostrud et officia ullamco magna id amet Lorem sit veniam dolor ex. Ea magna amet ullamco elit commodo dolore. Excepteur anim laboris laborum laboris proident Lorem. Nostrud irure officia consectetur nisi in nulla et. Elit amet enim nisi culpa commodo tempor aliquip fugiat amet.\r\n",
+    "registered": "2014-03-05T16:31:58 +05:00",
+    "latitude": 35.041318,
+    "longitude": 124.611526,
+    "tags": [
+      "ipsum",
+      "cillum",
+      "eu",
+      "adipisicing",
+      "duis",
+      "fugiat",
+      "ut"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Bryant Blackburn"
+      },
+      {
+        "id": 1,
+        "name": "Gray Fitzpatrick"
+      },
+      {
+        "id": 2,
+        "name": "Lou Jacobs"
+      }
+    ],
+    "greeting": "Hello, Rhonda Robertson! You have 2 unread messages.",
+    "favoriteFruit": "strawberry"
+  }
+]

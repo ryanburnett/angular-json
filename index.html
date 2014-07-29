@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Demo</title>
+    <script src="bower_components/angular/angular.min.js"></script>
+    <script src="bower_components/angular-resource/angular-resource.min.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/controllers/AppCtrl.js"></script>
+  </head>
+  <body ng-app="app">
+    <div ng-controller="AppCtrl as ctrl">
+      <div ng-repeat="customer in ctrl.customers">
+        <h3>{{customer.name}}</h3>
+        <ul>
+          <li ng-repeat="friend in customer.friends">{{friend.name}}</li>
+        </ul>
+        <p><strong>Tags: </strong><span ng-repeat="tag in customer.tags">{{tag}} </span></p>
+      </div>
+    </div>
+  </body>
+</html>
